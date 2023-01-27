@@ -1,0 +1,19 @@
+				@font-face {
+					font-family: 'avertastd';
+					src: url('7384AvertaStd.woff2') format('woff2'),
+						url('7384AvertaStd.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.avertastd{font-family: 'avertastd' !important;}
+
+						@font-face {
+					font-family: 'avertastdbold';
+					src: url('8426AvertaStdBold.woff2') format('woff2'),
+						url('8426AvertaStdBold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.avertastdbold{font-family: 'avertastdbold' !important;}
+
+		
